@@ -1,4 +1,4 @@
-c# University of West London BSc Computer Science Tasks
+# University of West London BSc Computer Science Tasks
 ## Management System for Hill & Knowlton
 ### Overview
 
